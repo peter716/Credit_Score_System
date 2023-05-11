@@ -1,0 +1,58 @@
+,Age,Sex,Job,Housing,Saving accounts,Checking account,Credit amount,Duration,Purpose,Risk
+1,22,female,2,own,little,moderate,5951,48,radio/TV,bad
+3,45,male,2,free,little,little,7882,42,furniture/equipment,good
+4,53,male,2,free,little,little,4870,24,car,bad
+7,35,male,3,rent,little,moderate,6948,36,car,good
+9,28,male,3,own,little,moderate,5234,30,car,bad
+10,25,female,2,rent,little,moderate,1295,12,car,bad
+11,24,female,2,rent,little,little,4308,48,business,bad
+12,22,female,2,own,little,moderate,1567,12,radio/TV,good
+13,60,male,1,own,little,little,1199,24,car,bad
+14,28,female,2,rent,little,little,1403,15,car,good
+15,32,female,1,own,moderate,little,1282,24,radio/TV,bad
+18,44,female,3,free,little,moderate,12579,24,car,bad
+21,44,male,2,rent,quite rich,little,2647,6,radio/TV,good
+22,48,male,1,rent,little,little,2241,10,car,good
+23,44,male,2,own,moderate,moderate,1804,12,car,good
+25,36,male,1,own,little,little,1374,6,furniture/equipment,good
+27,42,female,2,rent,rich,rich,409,12,radio/TV,good
+28,34,male,2,own,little,moderate,2415,7,radio/TV,good
+29,63,male,2,own,little,little,6836,60,business,bad
+30,36,male,2,own,rich,moderate,1913,18,business,good
+31,27,male,2,own,little,little,4020,24,furniture/equipment,good
+32,30,male,2,own,moderate,moderate,5866,18,car,good
+34,33,female,3,own,little,rich,1474,12,furniture/equipment,good
+35,25,male,1,own,little,moderate,4746,45,radio/TV,bad
+37,37,male,2,own,little,rich,2100,18,radio/TV,bad
+38,37,male,2,own,little,rich,1225,10,domestic appliances,good
+39,24,male,2,own,little,moderate,458,9,radio/TV,good
+41,26,male,2,own,quite rich,moderate,1158,12,radio/TV,good
+42,44,male,1,own,little,moderate,6204,18,repairs,good
+43,24,male,2,rent,moderate,little,6187,30,car,good
+44,58,female,1,free,little,little,6143,48,car,bad
+47,23,female,0,rent,quite rich,little,1352,6,car,good
+51,30,male,3,own,little,moderate,5965,27,car,good
+54,57,male,2,free,little,moderate,2225,36,car,bad
+58,23,female,3,own,little,rich,1961,18,car,good
+59,23,female,1,rent,little,little,6229,36,furniture/equipment,bad
+60,27,male,2,own,little,moderate,1391,9,business,good
+62,61,male,3,free,little,moderate,1953,36,business,bad
+63,25,male,2,own,little,moderate,14421,48,business,bad
+67,22,male,2,own,rich,moderate,1007,12,car,good
+72,51,male,3,free,little,little,1164,8,vacation/others,good
+73,41,female,1,own,little,moderate,5954,42,business,good
+75,66,male,3,free,little,little,1526,12,car,good
+76,34,male,2,own,little,little,3965,42,radio/TV,bad
+77,51,male,2,own,little,moderate,4771,11,radio/TV,good
+79,22,male,2,own,little,moderate,3832,30,furniture/equipment,good
+83,58,female,1,own,little,little,1755,24,vacation/others,good
+84,52,male,1,own,little,little,2315,10,radio/TV,good
+86,27,female,2,own,little,moderate,1295,18,furniture/equipment,good
+87,47,male,2,free,moderate,moderate,12612,36,education,bad
+88,30,male,3,own,moderate,little,2249,18,car,good
+89,28,male,2,own,little,little,1108,12,repairs,bad
+91,54,male,2,own,little,little,1409,12,car,good
+94,54,male,2,own,rich,moderate,1318,12,car,good
+95,58,male,2,rent,little,moderate,15945,54,business,bad
+97,34,male,2,own,moderate,moderate,2622,18,business,good
+98,36,male,2,own,little,moderate,2337,36,radio/TV,good
